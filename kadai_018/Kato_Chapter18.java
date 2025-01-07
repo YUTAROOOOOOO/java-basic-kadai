@@ -4,7 +4,7 @@ abstract public class Kato_Chapter18 {
 	
 	//フィールド
 	//性
-	public String familyName = "加藤";
+	private String familyName = "加藤";
 	//名
 	public String givenName;
 	//住所
